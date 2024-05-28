@@ -9,6 +9,7 @@
 //  Note that this file is included into creatwth.cpp one or more times
 //  (once for each supported module format).
 //
+#pragma warning(disable:4127)
 
 #if DETOURS_VERSION != 0x4c0c1   // 0xMAJORcMINORcPATCH
 #error detours.h version mismatch
