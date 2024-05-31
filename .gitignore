@@ -39,3 +39,7 @@ obj.*
 /bin.*
 *.vcxproj.FileListAbsolute.txt
 *.vcxprojAssemblyReference.cache
+
+
+# other vs crust
+Release/
